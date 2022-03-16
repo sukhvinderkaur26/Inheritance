@@ -61,6 +61,7 @@ public class Student {
     {
         System.out.println("Good Morning");
         System.out.println(roll_number);
+        System.out.println(COLLEGE_NAME);
     }
     //    Static method
     public static void printCollege()

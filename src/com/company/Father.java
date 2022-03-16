@@ -42,6 +42,16 @@ public class Father {
         this.familySurname = familySurname;
         this.address = address;
         this.assetValue = assetValue;
+    }
+    public void whatToCookForDinner(){
+        System.out.println("Pizza");
+    }
+    public void test()
+    {
+
+    }
+    public void test(String name)
+    {
 
     }
 }

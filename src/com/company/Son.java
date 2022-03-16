@@ -16,4 +16,9 @@ public class Son extends Father {
         this.hobby = hobby;
     }
 
+    @Override
+    public void whatToCookForDinner() {
+        //super.whatToCookForDinner();
+        System.out.println("Burger");
+    }
 }
